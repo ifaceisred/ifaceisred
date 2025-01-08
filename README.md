@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 - 💯熟练使用 Google + GitHub + Chat GPT
 - 🙋复制粘贴砖家
 - 💤BUG路由器
+### 个人作品 🌱
+[口袋书](https://docs.chujiaweicode.top/)
 
+[Jiawei's Site](https://www.chujiaweicode.top/)
 ### 技术栈 🖥
 
 <div className="flex flex-wrap">
