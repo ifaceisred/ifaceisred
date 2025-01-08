@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 **软件开发工程师**
 
-- 🔭 目前在上海工作
-- 😄 熟练使用 Google + GitHub + Chat GPT
-- 🌱 复制粘贴砖家 🙋
+- 👨‍💻坐标上海
+- 💯熟练使用 Google + GitHub + Chat GPT
+- 🙋复制粘贴砖家
+- 💤BUG路由器
 
 ### 技术栈 🖥
 
